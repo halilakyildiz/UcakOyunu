@@ -1,0 +1,14 @@
+﻿  Kaynak.cpp
+c:\users\akyildiz-pc\desktop\uçak oyunu\uçakoyunu\uçakoyunu\kaynak.cpp(23): warning C4309: 'başlatılıyor': sabit değer kesildi
+c:\users\akyildiz-pc\desktop\uçak oyunu\uçakoyunu\uçakoyunu\kaynak.cpp(31): warning C4309: 'başlatılıyor': sabit değer kesildi
+c:\users\akyildiz-pc\desktop\uçak oyunu\uçakoyunu\uçakoyunu\kaynak.cpp(89): warning C4309: '=': sabit değer kesildi
+c:\users\akyildiz-pc\desktop\uçak oyunu\uçakoyunu\uçakoyunu\kaynak.cpp(97): warning C4309: '=': sabit değer kesildi
+c:\users\akyildiz-pc\desktop\uçak oyunu\uçakoyunu\uçakoyunu\kaynak.cpp(98): warning C4309: '=': sabit değer kesildi
+c:\users\akyildiz-pc\desktop\uçak oyunu\uçakoyunu\uçakoyunu\kaynak.cpp(99): warning C4309: '=': sabit değer kesildi
+c:\users\akyildiz-pc\desktop\uçak oyunu\uçakoyunu\uçakoyunu\kaynak.cpp(100): warning C4309: '=': sabit değer kesildi
+c:\users\akyildiz-pc\desktop\uçak oyunu\uçakoyunu\uçakoyunu\kaynak.cpp(101): warning C4309: '=': sabit değer kesildi
+c:\users\akyildiz-pc\desktop\uçak oyunu\uçakoyunu\uçakoyunu\kaynak.cpp(264): warning C4309: '=': sabit değer kesildi
+c:\users\akyildiz-pc\desktop\uçak oyunu\uçakoyunu\uçakoyunu\kaynak.cpp(265): warning C4309: '=': sabit değer kesildi
+c:\users\akyildiz-pc\desktop\uçak oyunu\uçakoyunu\uçakoyunu\kaynak.cpp(269): warning C4309: '=': sabit değer kesildi
+c:\users\akyildiz-pc\desktop\uçak oyunu\uçakoyunu\uçakoyunu\kaynak.cpp(270): warning C4309: '=': sabit değer kesildi
+  UçakOyunu.vcxproj -> C:\Users\AKYILDIZ-PC\Desktop\Uçak Oyunu\UçakOyunu\Debug\UçakOyunu.exe
